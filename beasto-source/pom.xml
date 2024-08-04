@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.beasto</groupId>
-	<artifactId>source</artifactId>
+	<artifactId>beasto-source</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>source</name>
+	<name>beasto-source</name>
 	<description>Source Service For Beasto</description>
 	<url/>
 	<licenses>
